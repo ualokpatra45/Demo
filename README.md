@@ -1,2 +1,3 @@
 # Demo
-This my frist Repository
+This my first Repository
+Author - U Alok Patra
